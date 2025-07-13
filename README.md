@@ -1,4 +1,4 @@
-# Personalized E-commerce Product Recommender System
+# Personalized E-Commerce Product Recommender System
 
 ## Overview
 
