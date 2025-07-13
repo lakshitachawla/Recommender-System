@@ -87,7 +87,3 @@ To set up and run this recommender system:
 
 * Python 3.x
 * Jupyter Notebook or Google Colab environment
-
-### Installation
-
-Clone this repository (if applicable) and install the required Python libraries:
